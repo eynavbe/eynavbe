@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eynavbe" alt="eynavbe" /></a> </p>
 -->
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/eynavbe](https://github.com/eynavbe)
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="20"/> Andorid and Java projects at [https://github.com/eynavbe/projectsAndorid.git](https://github.com/eynavbe/projectsAndorid.git)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/> Pyhon projects at [https://github.com/eynavbe/projectsPython.git](https://github.com/eynavbe/projectsPython.git)
 
 - 📫 How to reach me **eynavbe@gmail.com**
 

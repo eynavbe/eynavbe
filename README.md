@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="20"/> Andorid and Java projects at [https://github.com/eynavbe?tab=repositories&q=&type=&language=java&sort=](https://github.com/eynavbe?tab=repositories&q=&type=&language=java&sort=)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/> Pyhon projects at [https://github.com/eynavbe?tab=repositories&q=&type=&language=python&sort=](https://github.com/eynavbe?tab=repositories&q=&type=&language=python&sort=)
-
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="20"/> JavaScript and HTML projects at [https://github.com/eynavbe?tab=repositories&q=&type=&language=javascript&sort=](https://github.com/eynavbe?tab=repositories&q=&type=&language=javascript&sort=)
 - 📫 How to reach me **eynavbe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
